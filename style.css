@@ -352,16 +352,18 @@ input[type=text],[type=email]{
     background-image: url(./src/tinder.png);
     background-size: cover;
   }
+
+  /* learning */
   #t31{
-    background-image: url(./src/tinder.png);
+    background-image: url(./src/wikipidia.jpg);
     background-size: cover;
   }
   #t32{
-    background-image: url(./src/tinder.png);
+    background-image: url(./src/w3.jpg);
     background-size: cover;
   }
   #t33{
-    background-image: url(./src/tinder.png);
+    background-image: url(./src/udemy.jpg);
     background-size: cover;
   }
   #t34{
@@ -373,6 +375,26 @@ input[type=text],[type=email]{
     background-size: cover;
   }
   #t36{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+  #t37{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+  #t38{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+  #t39{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+  #t40{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+  #t41{
     background-image: url(./src/tinder.png);
     background-size: cover;
   }
