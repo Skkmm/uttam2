@@ -165,6 +165,42 @@ a{
     background-image: none;
 }
 
+#y7{
+  background-image: url(./src/app-development.png);
+  background-size : cover;
+}
+
+#y7:hover{
+  background-color: #713ABE;
+  color : rgb(255, 250, 250);
+  background-image: none;
+}
+
+#y8{
+  background-image: url(./src/app-development.png);
+  background-size : cover;
+}
+
+#y8:hover{
+  background-color: #713ABE;
+  color : rgb(255, 250, 250);
+  background-image: none;
+}
+
+#y9{
+  background-image: url(./src/app-development.png);
+  background-size : cover;
+}
+
+#y9:hover{
+  background-color: #713ABE;
+  color : rgb(255, 250, 250);
+  background-image: none;
+}
+
+
+
+
 h2{
     font-family :cursive,Verdana, Geneva, Tahoma, sans-serif;
     color : #713ABE;
@@ -313,6 +349,30 @@ input[type=text],[type=email]{
     background-size: cover;
   }
   #t30{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+  #t31{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+  #t32{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+  #t33{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+  #t34{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+  #t35{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+  #t36{
     background-image: url(./src/tinder.png);
     background-size: cover;
   }
