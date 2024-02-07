@@ -367,25 +367,28 @@ input[type=text],[type=email]{
     background-size: cover;
   }
   #t34{
-    background-image: url(./src/tinder.png);
+    background-image: url(./src/cousera.jpg);
     background-size: cover;
   }
   #t35{
-    background-image: url(./src/tinder.png);
+    background-image: url(./src/ge);
     background-size: cover;
   }
   #t36{
-    background-image: url(./src/tinder.png);
+    background-image: url(./src/nptel.jpg);
     background-size: cover;
   }
   #t37{
-    background-image: url(./src/tinder.png);
+    background-image: url(./src/techtarget.jpg);
     background-size: cover;
   }
   #t38{
-    background-image: url(./src/tinder.png);
+    background-image: url(./src/thousandeye.jpg);
     background-size: cover;
   }
+
+/* News */
+
   #t39{
     background-image: url(./src/tinder.png);
     background-size: cover;
@@ -398,6 +401,145 @@ input[type=text],[type=email]{
     background-image: url(./src/tinder.png);
     background-size: cover;
   }
+  #t42{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+  #t43{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+  #t44{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+  #t45{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+  #t46{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+
+/* shoping */
+
+#t47{
+    background-image: url(./src/amazon.jpg);
+    background-size: cover;
+  }
+  #t48{
+    background-image: url(./src/flipkart.jpg);
+    background-size: cover;
+  }
+  #t49{
+    background-image: url(./src/tata\ neo.jpg);
+    background-size: cover;
+  }
+  #t50{
+    background-image: url(./src/myntra.jpg);
+    background-size: cover;
+  }
+  #t51{
+    background-image: url(./src/mesho.jpg);
+    background-size: cover;
+  }
+  #t52{
+    background-image: url(./src/beakh.jpg);
+    background-size: cover;
+  }
+  #t53{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+  #t54{
+    background-image: url(./src/tinder.png);
+    background-size: cover;
+  }
+/*Booking*/
+
+#t55{
+  background-image: url(./src/osrtc.jpg);
+  background-size: cover;
+}
+#t56{
+  background-image: url(./src/indiarail.jpg);
+  background-size: cover;
+}
+#t57{
+  background-image: url(./src/makemytrip.jpg);
+  background-size: cover;
+}
+#t58{
+  background-image: url(./src/oyo.jpg);
+  background-size: cover;
+}
+#t59{
+  background-image: url(./src/uber.jpg);
+  background-size: cover;
+}
+#t60{
+  background-image: url(./src/rapido.jpg);
+  background-size: cover;
+}
+#t61{
+  background-image: url(./src/bharatgas.jpg);
+  background-size: cover;
+}
+#t62{
+  background-image: url(./src/ola.jpg);
+  background-size: cover;
+}
+
+/* trading */
+
+#t63{
+  background-image: url(./src/zerodha.jpg);
+  background-size: cover;
+}
+#t64{
+  background-image: url(./src/grow.jpg);
+  background-size: cover;
+}
+#t65{
+  background-image: url(./src/angelone.jpg);
+  background-size: cover;
+}
+#t66{
+  background-image: url(./src/upstock.jpg);
+  background-size: cover;
+}
+#t67{
+  background-image: url(./src/tradingview.jpg);
+  background-size: cover;
+}
+#t68{
+  background-image: url(./src/tinder.png);
+  background-size: cover;
+}
+#t69{
+  background-image: url(./src/screenerlll.jpg);
+  background-size: cover;
+}
+#t70{
+  background-image: url(./src/intradayscanner.jpg);
+  background-size: cover;
+}
+
+/* cryptro */
+
+#t71{
+  background-image: url(./src/coinswitcch.jpg);
+  background-size: cover;
+}
+#t72{
+  background-image: url(./src/wazirx.jpg);
+  background-size: cover;
+}
+#t73{
+  background-image: url(./src/coindcx.jpg);
+  background-size: cover;
+}
 
 
 
