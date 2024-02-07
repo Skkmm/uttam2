@@ -155,7 +155,7 @@ a{
     background-image: none;
 }
 #t6{
-    background-image: url(./src/app-development.png);
+    background-image: url(./src/shopping.png);
     background-size : cover;
 }
 
@@ -166,7 +166,7 @@ a{
 }
 
 #y7{
-  background-image: url(./src/app-development.png);
+  background-image: url(./src/boking.jpg);
   background-size : cover;
 }
 
@@ -177,7 +177,7 @@ a{
 }
 
 #y8{
-  background-image: url(./src/app-development.png);
+  background-image: url(./src/sharemarket.png);
   background-size : cover;
 }
 
@@ -188,7 +188,7 @@ a{
 }
 
 #y9{
-  background-image: url(./src/app-development.png);
+  background-image: url(./src/crypto.png);
   background-size : cover;
 }
 
@@ -371,7 +371,7 @@ input[type=text],[type=email]{
     background-size: cover;
   }
   #t35{
-    background-image: url(./src/ge);
+    background-image: url(./src/geekforgek.png);
     background-size: cover;
   }
   #t36{
@@ -390,35 +390,35 @@ input[type=text],[type=email]{
 /* News */
 
   #t39{
-    background-image: url(./src/tinder.png);
+    background-image: url(./src/sambada.jpg);
     background-size: cover;
   }
   #t40{
-    background-image: url(./src/tinder.png);
+    background-image: url(./src/samaza.jpg);
     background-size: cover;
   }
   #t41{
-    background-image: url(./src/tinder.png);
+    background-image: url(./src/dharittri.jpg);
     background-size: cover;
   }
   #t42{
-    background-image: url(./src/tinder.png);
+    background-image: url(./src/sakal.jpg);
     background-size: cover;
   }
   #t43{
-    background-image: url(./src/tinder.png);
+    background-image: url(./src/otv.jpg);
     background-size: cover;
   }
   #t44{
-    background-image: url(./src/tinder.png);
+    background-image: url(./src/kanak.jpg);
     background-size: cover;
   }
   #t45{
-    background-image: url(./src/tinder.png);
+    background-image: url(./src/abp.jpg);
     background-size: cover;
   }
   #t46{
-    background-image: url(./src/tinder.png);
+    background-image: url(./src/aajtak.jpg);
     background-size: cover;
   }
 
